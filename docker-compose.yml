@@ -11,7 +11,7 @@ services:
 
 
   spring-boot:
-    image: ghazichhida/DEVOPSS
+    image: ghazichhida/devopss
     container_name: spring
     ports:
       - 8089:8089
